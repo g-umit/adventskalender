@@ -1,0 +1,16 @@
+{
+    "name": "RPK Adventskalender",
+    "short_name": "Advent",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f53c3c",
+    "theme_color": "#f53c3c",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
