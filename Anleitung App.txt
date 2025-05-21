@@ -1,0 +1,34 @@
+🍎 Anleitung für iPhone (iOS)
+Öffne Safari auf deinem iPhone
+(Wichtig: Nur Safari erlaubt das vollständige Speichern auf dem Home-Bildschirm)
+
+Gehe zu deiner Seite:
+https://g-umit.github.io/adventskalender/
+
+Tippe unten auf das Teilen-Symbol (Quadrat mit Pfeil nach oben)
+
+Scrolle im Menü nach unten und wähle:
+👉 „Zum Home-Bildschirm“
+
+Gib einen Namen ein (z. B. Adventskalender)
+
+Tippe auf „Hinzufügen“
+
+✅ Jetzt hast du ein App-Symbol auf deinem Home-Bildschirm – wie eine echte App!
+
+🤖 Anleitung für Android (z. B. Samsung, Pixel, Xiaomi)
+Öffne Google Chrome (empfohlen) oder Samsung Internet
+
+Rufe deinen Kalender auf:
+https://g-umit.github.io/adventskalender/
+
+Tippe oben rechts auf das Drei-Punkte-Menü ⋮
+
+Wähle:
+👉 „Zum Startbildschirm hinzufügen“ oder „App installieren“
+
+Gib einen Namen ein (z. B. Adventskalender)
+
+Bestätige mit „Hinzufügen“
+
+✅ Die Seite wird als Web-App installiert und hat sogar ein eigenes Fenster ohne Browserleiste!
