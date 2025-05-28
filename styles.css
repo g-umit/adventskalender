@@ -15,8 +15,8 @@ body {
 /* Container im Grid-Layout */
 .calendar-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
-    gap: clamp(10px, 3vw, 44px);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: clamp(10px, 5vw, 44px);
     width: 100%;
     max-width: 800px;
     padding: 10px;
@@ -30,13 +30,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: clamp(18px, 12vw, 40px);
+    font-size: clamp(70px, 20vw, 80px);
     font-weight: bold;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease, border 0.3s ease;
-    padding: clamp(8px, 2vw, 16px);
+    padding: clamp(1px, 0vw, 16px);
     border-radius: 15px;
-    border: 2px solid #ac0123;
+    border: 3px solid #ac0123;
     box-shadow: 0 0 10px #ac0123, 0 0 20px #ac0123;
     color: white;
     text-shadow: 0 0 2px black, 0 0 4px black;
