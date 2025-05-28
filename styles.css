@@ -60,7 +60,7 @@ body {
 
 /* Angepasste Schriftgröße für geöffnete Türchen */
 .door.opened {
-    font-size: clamp(16px, 20px, 24px);
+    font-size: clamp(18px, 22px, 26px);
     padding: clamp(4px, 1vw, 8px);
     line-height: 1.2;
 }
